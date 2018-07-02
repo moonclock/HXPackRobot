@@ -23,14 +23,14 @@ Python 和 fir-cli(仅上传fir.im时需要)
 
 2.将文件名改为PackRobot,否则无法使用
 
-![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/2.png){: width="100px" height="100px"}
+![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/2.png)
 
 3.打开文件夹
 
-![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/3.png){: width="100px" height="100px"}
+![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/3.png)
 
 4.打开pack.py文件，根据自己的实际情况更改红框部分
-![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/6.png){: width="100px" height="100px"}
+![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/6.png)
 
 7.打开exportOptionsPlist.plist文件更改,teamId见下文如何获取用户ID
 
@@ -38,47 +38,47 @@ Python 和 fir-cli(仅上传fir.im时需要)
 
 9.ipa包生成成功会根据工程名+时间生成一个ipa包文件夹，并删除build目录
 
-![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/4.png){: width="100px" height="100px"}
+![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/4.png)
 
 10.进入可以看到我们的ipa包
 
-![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/7.png){: width="100px" height="100px"}
+![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/7.png)
 
 11.上传fir
 
-![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/14.png){: width="100px" height="100px"}
+![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/14.png)
 
 12.上传成功
 
-![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/15.png){: width="100px" height="100px"}
+![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/15.png)
 
 11.发送邮件
 
-![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/16.png){: width="100px" height="100px"}
+![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/16.png)
 
 11.收到邮件
 
-![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/17.png){: width="100px" height="100px"}
+![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/17.png)
 
 11.下载安装包
 
-![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/18.png){: width="100px" height="100px"}
+![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/18.png)
 
 # 证书名称和用户ID如何获取
 
 1.打开钥匙串
 
-![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/11.png){: width="100px" height="100px"}
+![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/11.png)
 
 2.双击证书
 
-![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/12.png){: width="100px" height="100px"}
+![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/12.png)
 
 3.红框标示的用户ID如果和我们苹果中心按照下图进入后看到的红框id一样则为当前需要的证书
 
-![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/8.png){: width="100px" height="100px"}
+![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/8.png)
 
-![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/9.png){: width="100px" height="100px"}
+![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/9.png)
 
 # .mobileprovision的UUID如何获取
 
@@ -86,23 +86,23 @@ Python 和 fir-cli(仅上传fir.im时需要)
 
 1.Xcode - Window - Organizer 进入 Archives目录，然后选择之前手动打好的包
 
-![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/19.png){: width="100px" height="100px"}
+![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/19.png)
 
 2.选择Export导出
 
-![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/20.png){: width="100px" height="100px"}
+![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/20.png)
 
 3.选择第三个Inhouse包
 
-![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/21.png){: width="100px" height="100px"}
+![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/21.png)
 
 4.一直下一步，到最后可以看到图示
 
-![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/22.png){: width="100px" height="100px"}
+![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/22.png)
 
 5.点击箭头进入，可以看到.mobileprovision，名字前面即为UUID
 
-![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/23.png){: width="100px" height="100px"}
+![image](https://github.com/huangxuan518/HXPackRobot/blob/master/%E8%AF%B4%E6%98%8E%E5%9B%BE/23.png)
 
 # 扩展
 
